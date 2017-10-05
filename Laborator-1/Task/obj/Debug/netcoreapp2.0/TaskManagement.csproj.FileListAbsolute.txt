@@ -1,0 +1,9 @@
+C:\Users\Cristian Cristea\source\repos\Laborator1\Task\bin\Debug\netcoreapp2.0\TaskManagement.deps.json
+C:\Users\Cristian Cristea\source\repos\Laborator1\Task\bin\Debug\netcoreapp2.0\TaskManagement.dll
+C:\Users\Cristian Cristea\source\repos\Laborator1\Task\bin\Debug\netcoreapp2.0\TaskManagement.pdb
+C:\Users\Cristian Cristea\source\repos\Laborator1\Task\obj\Debug\netcoreapp2.0\TaskManagement.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Cristea\source\repos\Laborator1\Task\obj\Debug\netcoreapp2.0\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Cristea\source\repos\Laborator1\Task\obj\Debug\netcoreapp2.0\TaskManagement.AssemblyInfoInputs.cache
+C:\Users\Cristian Cristea\source\repos\Laborator1\Task\obj\Debug\netcoreapp2.0\TaskManagement.AssemblyInfo.cs
+C:\Users\Cristian Cristea\source\repos\Laborator1\Task\obj\Debug\netcoreapp2.0\TaskManagement.dll
+C:\Users\Cristian Cristea\source\repos\Laborator1\Task\obj\Debug\netcoreapp2.0\TaskManagement.pdb

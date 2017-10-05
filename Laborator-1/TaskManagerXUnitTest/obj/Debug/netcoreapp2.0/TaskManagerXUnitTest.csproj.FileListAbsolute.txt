@@ -1,0 +1,16 @@
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\bin\Debug\netcoreapp2.0\TaskManagerXUnitTest.deps.json
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\bin\Debug\netcoreapp2.0\TaskManagerXUnitTest.runtimeconfig.json
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\bin\Debug\netcoreapp2.0\TaskManagerXUnitTest.runtimeconfig.dev.json
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\bin\Debug\netcoreapp2.0\TaskManagerXUnitTest.dll
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\bin\Debug\netcoreapp2.0\TaskManagerXUnitTest.pdb
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\bin\Debug\netcoreapp2.0\TaskManagement.dll
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\bin\Debug\netcoreapp2.0\TaskManagement.pdb
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\obj\Debug\netcoreapp2.0\TaskManagerXUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\obj\Debug\netcoreapp2.0\TaskManagerXUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\obj\Debug\netcoreapp2.0\TaskManagerXUnitTest.AssemblyInfoInputs.cache
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\obj\Debug\netcoreapp2.0\TaskManagerXUnitTest.AssemblyInfo.cs
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\obj\Debug\netcoreapp2.0\TaskManagerXUnitTest.dll
+C:\Users\Cristian Cristea\source\repos\Laborator1\TaskManagerXUnitTest\obj\Debug\netcoreapp2.0\TaskManagerXUnitTest.pdb

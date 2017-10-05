@@ -1,0 +1,9 @@
+C:\Users\Cristian Cristea\source\repos\Laborator1\AlarmManagement\bin\Debug\netcoreapp2.0\AlarmManagement.deps.json
+C:\Users\Cristian Cristea\source\repos\Laborator1\AlarmManagement\bin\Debug\netcoreapp2.0\AlarmManagement.dll
+C:\Users\Cristian Cristea\source\repos\Laborator1\AlarmManagement\bin\Debug\netcoreapp2.0\AlarmManagement.pdb
+C:\Users\Cristian Cristea\source\repos\Laborator1\AlarmManagement\obj\Debug\netcoreapp2.0\AlarmManagement.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Cristea\source\repos\Laborator1\AlarmManagement\obj\Debug\netcoreapp2.0\AlarmManagement.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Cristea\source\repos\Laborator1\AlarmManagement\obj\Debug\netcoreapp2.0\AlarmManagement.AssemblyInfoInputs.cache
+C:\Users\Cristian Cristea\source\repos\Laborator1\AlarmManagement\obj\Debug\netcoreapp2.0\AlarmManagement.AssemblyInfo.cs
+C:\Users\Cristian Cristea\source\repos\Laborator1\AlarmManagement\obj\Debug\netcoreapp2.0\AlarmManagement.dll
+C:\Users\Cristian Cristea\source\repos\Laborator1\AlarmManagement\obj\Debug\netcoreapp2.0\AlarmManagement.pdb
