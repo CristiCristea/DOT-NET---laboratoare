@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportManagement", "TransportManagement\TransportManagement.csproj", "{73284ADF-D907-40E2-9DAA-7B282C6B4147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportManagementTest", "TransportManagementTest\TransportManagementTest.csproj", "{1E90F507-15EF-4229-97F8-F4F5A7453B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73284ADF-D907-40E2-9DAA-7B282C6B4147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73284ADF-D907-40E2-9DAA-7B282C6B4147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73284ADF-D907-40E2-9DAA-7B282C6B4147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73284ADF-D907-40E2-9DAA-7B282C6B4147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E90F507-15EF-4229-97F8-F4F5A7453B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E90F507-15EF-4229-97F8-F4F5A7453B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E90F507-15EF-4229-97F8-F4F5A7453B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E90F507-15EF-4229-97F8-F4F5A7453B48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC5781FA-148C-49F9-A257-699CF5B09876}
+	EndGlobalSection
+EndGlobal

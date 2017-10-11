@@ -1,0 +1,9 @@
+C:\Users\cristian\source\repos\Laborator-2\TransportManagement\bin\Debug\netcoreapp2.0\TransportManagement.deps.json
+C:\Users\cristian\source\repos\Laborator-2\TransportManagement\bin\Debug\netcoreapp2.0\TransportManagement.dll
+C:\Users\cristian\source\repos\Laborator-2\TransportManagement\bin\Debug\netcoreapp2.0\TransportManagement.pdb
+C:\Users\cristian\source\repos\Laborator-2\TransportManagement\obj\Debug\netcoreapp2.0\TransportManagement.csprojResolveAssemblyReference.cache
+C:\Users\cristian\source\repos\Laborator-2\TransportManagement\obj\Debug\netcoreapp2.0\TransportManagement.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\Laborator-2\TransportManagement\obj\Debug\netcoreapp2.0\TransportManagement.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\Laborator-2\TransportManagement\obj\Debug\netcoreapp2.0\TransportManagement.AssemblyInfo.cs
+C:\Users\cristian\source\repos\Laborator-2\TransportManagement\obj\Debug\netcoreapp2.0\TransportManagement.dll
+C:\Users\cristian\source\repos\Laborator-2\TransportManagement\obj\Debug\netcoreapp2.0\TransportManagement.pdb
