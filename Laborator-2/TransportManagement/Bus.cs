@@ -3,55 +3,49 @@ using System.Collections.Generic;
 
 namespace TransportManagement
 {
-    public class Buss
+    public class Bus
     {
         public Guid Id { get; private set; }
+        public int Mileage;
         public List<RoadTrip> Schedule { get; private set; }
         public bool FullyScheduled;
 
-        public Buss(string name)
+        public Bus()
         {
             Id = Guid.NewGuid();
             Schedule = new List<RoadTrip>();
+            Mileage = 0;
             FullyScheduled = false;
         }
 
         public void AddRoadTrip(RoadTrip roadTrip)
         {
-            var corectInterval = true;
-
-            if (roadTrip.Distance > 50)
+            if (FullyScheduled)
             {
-                throw new BusinessException("Cannot add road trip with more than 50km!");
+                throw new BusinessException("Bus is fully scheduled!\nTry tomorrow! :)");
             }
 
-            if (GetScheduleDistance() + roadTrip.Distance > 100)
+            if (Mileage + roadTrip.Distance > 100)
             {
                 throw new BusinessException(
                     "Cannot add road trip because schedule distance cannot be more than 100!\n" +
-                    "Curent schedule distance =" + GetScheduleDistance() + "please add a lower road trip!");
+                    "Curent schedule distance =" + Mileage + " please add a lower road trip!");
             }
 
             foreach (var iterator in Schedule)
             {
                 if (iterator.StartTime < roadTrip.EndTime && roadTrip.StartTime < iterator.EndTime)
                 {
-                    corectInterval = false;
+                    throw new BusinessException("Cannot add two roads in the smae period of time!");
                 }
             }
 
-            if (corectInterval)
+            Schedule.Add(roadTrip);
+            Mileage += roadTrip.Distance;
+            
+            if (Mileage == 100)
             {
-                Schedule.Add(roadTrip);
-            }
-            else
-            {
-                throw new BusinessException("Cannot add two roads in the smae period of time!");
-            }
-
-            if (GetScheduleDistance() == 100)
-            {
-                MarkFullyScheduledBuss();
+                FullyScheduled = true;
             }
         }
 
@@ -62,7 +56,6 @@ namespace TransportManagement
 
         public List<RoadTrip> GetAllRoadTripsScheduleFromPeriodTime(TimeSpan startTime, TimeSpan endTime)
         {
-            //return Schedule.Where(roadTrip => roadTrip.StartTime > startTime && roadTrip.EndTime < endTime).ToList();
             var roadTrips = new List<RoadTrip>();
             foreach (var roadTrip in Schedule)
             {
@@ -72,22 +65,6 @@ namespace TransportManagement
                 }
             }
             return roadTrips;
-        }
-
-        private void MarkFullyScheduledBuss()
-        {
-            FullyScheduled = true;
-        }
-
-        private int GetScheduleDistance()
-        {
-            //return Schedule.Sum(roadTrip => roadTrip.Distance);
-            var scheduleDistance = 0;
-            foreach (var roadTrip in Schedule)
-            {
-                scheduleDistance += roadTrip.Distance;
-            }
-            return scheduleDistance;
         }
 
     }

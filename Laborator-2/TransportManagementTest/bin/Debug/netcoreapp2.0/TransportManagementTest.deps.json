@@ -1,13 +1,14 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "1dd95dd2d0fafa61a502c5060bc1cf86e0b150a4"
+    "signature": "22ab4d2d4e127ed699324906dd3abe851b8d9214"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "TransportManagementTest/1.0.0": {
         "dependencies": {
+          "FluentAssertions": "4.19.4",
           "Microsoft.NET.Test.Sdk": "15.3.0-preview-20170628-02",
           "TransportManagement": "1.0.0",
           "xunit": "2.2.0",
@@ -15,6 +16,15 @@
         },
         "runtime": {
           "TransportManagementTest.dll": {}
+        }
+      },
+      "FluentAssertions/4.19.4": {
+        "dependencies": {
+          "System.Reflection.TypeExtensions": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/FluentAssertions.Core.dll": {},
+          "lib/netstandard1.3/FluentAssertions.dll": {}
         }
       },
       "Microsoft.CSharp/4.0.1": {
@@ -1037,6 +1047,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentAssertions/4.19.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-i2o9/YjrJUI0sx1373gj83fsITo7W/aNJ+uciV5Cg7ZUbKhGWbMekx8gTU9AuDtB54mEhMUC9uF16MOzZEp0FQ==",
+      "path": "fluentassertions/4.19.4",
+      "hashPath": "fluentassertions.4.19.4.nupkg.sha512"
     },
     "Microsoft.CSharp/4.0.1": {
       "type": "package",
