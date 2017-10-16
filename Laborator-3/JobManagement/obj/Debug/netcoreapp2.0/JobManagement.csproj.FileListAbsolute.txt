@@ -1,0 +1,9 @@
+C:\Users\cristian\source\repos\Laborator-3\JobManagement\bin\Debug\netcoreapp2.0\JobManagement.deps.json
+C:\Users\cristian\source\repos\Laborator-3\JobManagement\bin\Debug\netcoreapp2.0\JobManagement.dll
+C:\Users\cristian\source\repos\Laborator-3\JobManagement\bin\Debug\netcoreapp2.0\JobManagement.pdb
+C:\Users\cristian\source\repos\Laborator-3\JobManagement\obj\Debug\netcoreapp2.0\JobManagement.csprojResolveAssemblyReference.cache
+C:\Users\cristian\source\repos\Laborator-3\JobManagement\obj\Debug\netcoreapp2.0\JobManagement.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\Laborator-3\JobManagement\obj\Debug\netcoreapp2.0\JobManagement.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\Laborator-3\JobManagement\obj\Debug\netcoreapp2.0\JobManagement.AssemblyInfo.cs
+C:\Users\cristian\source\repos\Laborator-3\JobManagement\obj\Debug\netcoreapp2.0\JobManagement.dll
+C:\Users\cristian\source\repos\Laborator-3\JobManagement\obj\Debug\netcoreapp2.0\JobManagement.pdb
