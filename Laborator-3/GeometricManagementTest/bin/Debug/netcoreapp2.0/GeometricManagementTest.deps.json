@@ -6,16 +6,16 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "JobManagementTest/1.0.0": {
+      "GeometricManagementTest/1.0.0": {
         "dependencies": {
           "FluentAssertions": "4.19.4",
-          "JobManagement": "1.0.0",
+          "GeometricManagement": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.3.0-preview-20170628-02",
           "xunit": "2.2.0",
           "xunit.runner.visualstudio": "2.2.0"
         },
         "runtime": {
-          "JobManagementTest.dll": {}
+          "GeometricManagementTest.dll": {}
         }
       },
       "FluentAssertions/4.19.4": {
@@ -1035,15 +1035,15 @@
           "System.Threading.ThreadPool": "4.3.0"
         }
       },
-      "JobManagement/1.0.0": {
+      "GeometricManagement/1.0.0": {
         "runtime": {
-          "JobManagement.dll": {}
+          "GeometricManagement.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "JobManagementTest/1.0.0": {
+    "GeometricManagementTest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1580,7 +1580,7 @@
       "path": "xunit.runner.visualstudio/2.2.0",
       "hashPath": "xunit.runner.visualstudio.2.2.0.nupkg.sha512"
     },
-    "JobManagement/1.0.0": {
+    "GeometricManagement/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

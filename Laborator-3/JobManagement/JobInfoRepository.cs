@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace JobManagement
 {
@@ -12,18 +13,13 @@ namespace JobManagement
             {
                 new JobInfo("Junior Developer", 0, "Licence diploma", 2000),
                 new JobInfo("Secretary", 4,"Should know management and Office", 1500),
-                new JobInfo("Ninja Developer",10,"Do everything fast and correct",5000)
+                new JobInfo("Ninja Developer", 10, "Do everything fast and correct", 5000)
             };
         }
 
         public JobInfo GetJobByTitle(string jobTitle)
         {
-            foreach (var job in jobs)
-            {
-                if (job.Title == jobTitle)
-                    return job;
-            }
-            return null;
+            return jobs.FirstOrDefault(job => job.Title == jobTitle);
         }
 
         public List<JobInfo> FindAllJobs()

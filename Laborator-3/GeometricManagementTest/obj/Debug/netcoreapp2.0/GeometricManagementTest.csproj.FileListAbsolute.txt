@@ -1,0 +1,16 @@
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\bin\Debug\netcoreapp2.0\GeometricManagement.dll
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\obj\Debug\netcoreapp2.0\GeometricManagementTest.csprojResolveAssemblyReference.cache
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\obj\Debug\netcoreapp2.0\GeometricManagementTest.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\obj\Debug\netcoreapp2.0\GeometricManagementTest.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\obj\Debug\netcoreapp2.0\GeometricManagementTest.AssemblyInfo.cs
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\bin\Debug\netcoreapp2.0\GeometricManagementTest.deps.json
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\bin\Debug\netcoreapp2.0\GeometricManagementTest.runtimeconfig.json
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\bin\Debug\netcoreapp2.0\GeometricManagementTest.runtimeconfig.dev.json
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\bin\Debug\netcoreapp2.0\GeometricManagementTest.dll
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\bin\Debug\netcoreapp2.0\GeometricManagementTest.pdb
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\bin\Debug\netcoreapp2.0\GeometricManagement.pdb
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\obj\Debug\netcoreapp2.0\GeometricManagementTest.dll
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagementTest\obj\Debug\netcoreapp2.0\GeometricManagementTest.pdb

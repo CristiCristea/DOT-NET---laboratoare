@@ -1,0 +1,8 @@
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagement\bin\Debug\netcoreapp2.0\GeometricManagement.deps.json
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagement\bin\Debug\netcoreapp2.0\GeometricManagement.dll
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagement\bin\Debug\netcoreapp2.0\GeometricManagement.pdb
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagement\obj\Debug\netcoreapp2.0\GeometricManagement.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagement\obj\Debug\netcoreapp2.0\GeometricManagement.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagement\obj\Debug\netcoreapp2.0\GeometricManagement.AssemblyInfo.cs
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagement\obj\Debug\netcoreapp2.0\GeometricManagement.dll
+C:\Users\cristian\source\repos\Laborator-3\GeometricManagement\obj\Debug\netcoreapp2.0\GeometricManagement.pdb
