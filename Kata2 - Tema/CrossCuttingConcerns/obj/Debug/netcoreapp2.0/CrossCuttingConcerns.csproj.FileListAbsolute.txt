@@ -1,0 +1,27 @@
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcerns\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.deps.json
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcerns\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.dll
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcerns\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.pdb
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.AssemblyInfo.cs
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.dll
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.pdb
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcerns\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.deps.json
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcerns\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.dll
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcerns\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.pdb
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.AssemblyInfo.cs
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.dll
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.pdb
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcerns\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.deps.json
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcerns\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.dll
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcerns\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.pdb
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.AssemblyInfo.cs
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.dll
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcerns\obj\Debug\netcoreapp2.0\CrossCuttingConcerns.pdb

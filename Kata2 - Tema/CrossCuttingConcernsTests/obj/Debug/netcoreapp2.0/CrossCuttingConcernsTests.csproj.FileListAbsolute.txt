@@ -1,0 +1,48 @@
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.deps.json
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.runtimeconfig.json
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.runtimeconfig.dev.json
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.dll
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.AssemblyInfoInputs.cache
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.AssemblyInfo.cs
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.pdb
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.dll
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.pdb
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.dll
+C:\Users\folariu\Desktop\University\Kata2\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.pdb
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.deps.json
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.runtimeconfig.json
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.runtimeconfig.dev.json
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.dll
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.pdb
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.dll
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.pdb
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.AssemblyInfoInputs.cache
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.AssemblyInfo.cs
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.dll
+C:\Users\folariu\Desktop\University\Week4\before\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.pdb
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.deps.json
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.runtimeconfig.json
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.runtimeconfig.dev.json
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.dll
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcernsTests.pdb
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.dll
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\bin\Debug\netcoreapp2.0\CrossCuttingConcerns.pdb
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.csprojResolveAssemblyReference.cache
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.csproj.CoreCompileInputs.cache
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.AssemblyInfoInputs.cache
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.AssemblyInfo.cs
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.dll
+C:\Users\cristian\Desktop\Kata2 - Tema\CrossCuttingConcernsTests\obj\Debug\netcoreapp2.0\CrossCuttingConcernsTests.pdb
