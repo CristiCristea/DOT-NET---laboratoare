@@ -1,0 +1,16 @@
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\bin\Debug\netcoreapp2.0\BookManagement.dll
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\obj\Debug\netcoreapp2.0\BookManagementTest.csprojResolveAssemblyReference.cache
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\obj\Debug\netcoreapp2.0\BookManagementTest.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\obj\Debug\netcoreapp2.0\BookManagementTest.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\obj\Debug\netcoreapp2.0\BookManagementTest.AssemblyInfo.cs
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\bin\Debug\netcoreapp2.0\BookManagementTest.deps.json
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\bin\Debug\netcoreapp2.0\BookManagementTest.runtimeconfig.json
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\bin\Debug\netcoreapp2.0\BookManagementTest.runtimeconfig.dev.json
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\bin\Debug\netcoreapp2.0\BookManagementTest.dll
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\bin\Debug\netcoreapp2.0\BookManagementTest.pdb
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\bin\Debug\netcoreapp2.0\BookManagement.pdb
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\obj\Debug\netcoreapp2.0\BookManagementTest.dll
+C:\Users\cristian\source\repos\Laborator-4\TimeManagementTest\obj\Debug\netcoreapp2.0\BookManagementTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\cristian\source\repos\Laborator-4\TimeManagement\bin\Debug\netcoreapp2.0\BookManagement.deps.json
+C:\Users\cristian\source\repos\Laborator-4\TimeManagement\bin\Debug\netcoreapp2.0\BookManagement.dll
+C:\Users\cristian\source\repos\Laborator-4\TimeManagement\bin\Debug\netcoreapp2.0\BookManagement.pdb
+C:\Users\cristian\source\repos\Laborator-4\TimeManagement\obj\Debug\netcoreapp2.0\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\Laborator-4\TimeManagement\obj\Debug\netcoreapp2.0\BookManagement.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\Laborator-4\TimeManagement\obj\Debug\netcoreapp2.0\BookManagement.AssemblyInfo.cs
+C:\Users\cristian\source\repos\Laborator-4\TimeManagement\obj\Debug\netcoreapp2.0\BookManagement.dll
+C:\Users\cristian\source\repos\Laborator-4\TimeManagement\obj\Debug\netcoreapp2.0\BookManagement.pdb
+C:\Users\cristian\source\repos\Laborator-4\TimeManagement\obj\Debug\netcoreapp2.0\BookManagement.csprojResolveAssemblyReference.cache
