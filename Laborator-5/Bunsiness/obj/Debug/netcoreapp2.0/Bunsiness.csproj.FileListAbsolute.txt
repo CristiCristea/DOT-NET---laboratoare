@@ -1,0 +1,13 @@
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\bin\Debug\netcoreapp2.0\Bunsiness.deps.json
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\bin\Debug\netcoreapp2.0\Bunsiness.dll
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\bin\Debug\netcoreapp2.0\Bunsiness.pdb
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\bin\Debug\netcoreapp2.0\Context.dll
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\bin\Debug\netcoreapp2.0\Context.pdb
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\obj\Debug\netcoreapp2.0\Bunsiness.csprojResolveAssemblyReference.cache
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\obj\Debug\netcoreapp2.0\Bunsiness.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\obj\Debug\netcoreapp2.0\Bunsiness.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\obj\Debug\netcoreapp2.0\Bunsiness.AssemblyInfo.cs
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\obj\Debug\netcoreapp2.0\Bunsiness.dll
+C:\Users\cristian\source\repos\New folder\Laborator-5\Bunsiness\obj\Debug\netcoreapp2.0\Bunsiness.pdb

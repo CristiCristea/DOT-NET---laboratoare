@@ -1,0 +1,17 @@
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Bunsiness.dll
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Context.dll
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\obj\Debug\netcoreapp2.0\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\obj\Debug\netcoreapp2.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfo.cs
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Presentation.deps.json
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.json
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.dev.json
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Presentation.dll
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Presentation.pdb
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Bunsiness.pdb
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Context.pdb
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\obj\Debug\netcoreapp2.0\Presentation.dll
+C:\Users\cristian\source\repos\New folder\Laborator-5\Presentation\obj\Debug\netcoreapp2.0\Presentation.pdb
