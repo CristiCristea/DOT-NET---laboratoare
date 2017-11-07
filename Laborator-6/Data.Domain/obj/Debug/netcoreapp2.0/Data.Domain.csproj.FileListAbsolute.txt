@@ -1,0 +1,9 @@
+C:\Users\cristian\source\repos\New folder (2)\Laborator-6\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.deps.json
+C:\Users\cristian\source\repos\New folder (2)\Laborator-6\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\cristian\source\repos\New folder (2)\Laborator-6\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csprojResolveAssemblyReference.cache
+C:\Users\cristian\source\repos\New folder (2)\Laborator-6\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cristian\source\repos\New folder (2)\Laborator-6\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfoInputs.cache
+C:\Users\cristian\source\repos\New folder (2)\Laborator-6\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfo.cs
+C:\Users\cristian\source\repos\New folder (2)\Laborator-6\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\cristian\source\repos\New folder (2)\Laborator-6\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\cristian\source\repos\New folder (2)\Laborator-6\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.pdb
