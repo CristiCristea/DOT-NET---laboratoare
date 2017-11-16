@@ -1,0 +1,11 @@
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.deps.json
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.csprojResolveAssemblyReference.cache
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.csproj.CoreCompileInputs.cache
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfoInputs.cache
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfo.cs
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Domain.dll
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.dll
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.pdb

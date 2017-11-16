@@ -1,0 +1,17 @@
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.deps.json
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.runtimeconfig.json
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.runtimeconfig.dev.json
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.dll
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.pdb
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\Business.dll
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\Data.Domain.dll
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\Business.pdb
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.csprojResolveAssemblyReference.cache
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.csproj.CoreCompileInputs.cache
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.AssemblyInfoInputs.cache
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.AssemblyInfo.cs
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.dll
+c:\users\cristian\source\repos\MVCApplication-Kata\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.pdb

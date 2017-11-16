@@ -1,0 +1,9 @@
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.deps.json
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.dll
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csprojResolveAssemblyReference.cache
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csproj.CoreCompileInputs.cache
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfoInputs.cache
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfo.cs
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.dll
+c:\users\cristian\source\repos\MVCApplication-Kata\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.pdb
